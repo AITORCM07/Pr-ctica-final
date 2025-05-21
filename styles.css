@@ -1,0 +1,88 @@
+body {
+    font-family: 'Arial', sans-serif;
+    margin: 0;
+    background-color: #f9f9f9;
+  }
+  
+  header {
+    background-color: #ffffff;
+    text-align: center;
+    padding: 1em;
+    border-bottom: 3px solid #00529F;
+  }
+  
+  header .escudo {
+    width: 80px;
+    height: auto;
+  }
+  
+  nav {
+    background-color: #00529F;
+  }
+  
+  nav ul {
+    list-style: none;
+    display: flex;
+    justify-content: center;
+    padding: 0;
+    margin: 0;
+  }
+  
+  nav li {
+    margin: 0 15px;
+  }
+  
+  nav a {
+    color: white;
+    text-decoration: none;
+    padding: 10px 15px;
+    display: block;
+  }
+  
+  nav a:hover {
+    background-color: #003c7a;
+    transition: 0.3s;
+  }
+  
+  section.noticias {
+    background: url('images/madrid.jpeg') no-repeat center center;
+    background-size: cover;
+    color: white;
+    padding: 4em 1em;
+    text-shadow: 1px 1px 2px black;
+  }
+  
+  article {
+    padding: 2em;
+    animation: aparicion 1.2s ease-in-out;
+  }
+  
+  footer {
+    background-color: #111;
+    color: white;
+    text-align: center;
+    padding: 1em;
+    font-size: 0.9em;
+  }
+  
+  @keyframes aparicion {
+    from {opacity: 0; transform: translateY(20px);}
+    to {opacity: 1; transform: translateY(0);}
+  }
+  
+  /* Responsive */
+  @media (max-width: 768px) {
+    nav ul {
+      flex-direction: column;
+    }
+  
+    .escudo {
+      width: 60px;
+    }
+  
+    section.noticias, article {
+      padding: 1em;
+    }
+  }
+  
+  
