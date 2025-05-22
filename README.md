@@ -63,9 +63,9 @@ El formulari de contacte utilitza validació bàsica amb HTML.
 
 Pàgina d’inici (index.html)
 
-![Imatge d'exemple](FOTON5)
+![Imatge d'exemple](FOTON5.png)
 
-![Imatge d'exemple](FOTON6)
+![Imatge d'exemple](FOTON6.png)
 
 **____________________________________________________________________________________________________________________________________________________**
 
