@@ -71,13 +71,16 @@ Pàgina d’inici (index.html)
 
 Pàgina de la història (historia.html)
 
-![Imatge d'exemple](CRISTIANORONALDO.webp)
+![Imatge d'exemple](FOTON7.png)
+![Imatge d'exemple](FOTON8.png)
+![Imatge d'exemple](FOTON9.png)
+![Imatge d'exemple](FOTON10.png)
 
 **____________________________________________________________________________________________________________________________________________________**
 
 Formulari de contacte (contacto.html)
 
 
-![Imatge d'exemple](CRISTIANORONALDO.webp)
+![Imatge d'exemple](FOTON11.png)
 
 **____________________________________________________________________________________________________________________________________________________**
