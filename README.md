@@ -35,7 +35,7 @@ El lloc web està format per tres pàgines principals:
 
 L’estil del lloc es defineix mitjançant el fitxer styles.css. Inclou:
 
-Colors el del club Real Madrid i així apareix original.
+Colors del club Real Madrid i així apareix original.
 
 Tipografia sans-serif moderna i neta.
 
