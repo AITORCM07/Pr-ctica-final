@@ -6,15 +6,15 @@ Aquest projecte consisteix en la creació d’un lloc web personal senzill, comp
 **2.Explicació del layout i estructura:**
 El lloc web està format per tres pàgines principals:
 
-*index.html: pàgina principal amb informació introductòria.*
+**index.html:** *pàgina principal amb informació introductòria.*
 
 ![Index.html](CRISTIANORONALDO.webp)
 
-*historia.html: secció on es desenvolupa una petita història o biografia.*
+**historia.html:** *secció on es desenvolupa una petita història o biografia.*
 
 ![Historia.html](.png)
 
-*contacto.html: pàgina amb un formulari de contacte.*
+**contacto.html:** *pàgina amb un formulari de contacte.*
 
 ![Contacto.html](FOTON1.png)
 
