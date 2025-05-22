@@ -16,7 +16,7 @@ El lloc web està format per tres pàgines principals:
 
 *contacto.html: pàgina amb un formulari de contacte.*
 
-![Contacto.html](FOTON01.png)
+![Contacto.html](FOTON1.png)
 
 Totes les pàgines comparteixen una mateixa estructura bàsica amb etiquetes de HTML. Té un menú de navegació que facilita el pas entre pàgines. El layout es basa en una distribució en columna per a dispositius mòbils i una disposició en dues columnes per a pantalles més grans.
 
