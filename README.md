@@ -63,12 +63,21 @@ El formulari de contacte utilitza validació bàsica amb HTML.
 
 Pàgina d’inici (index.html)
 
-![Imatge d'exemple](CRISTIANORONALDO.webp)
+![Imatge d'exemple](FOTON5)
+
+![Imatge d'exemple](FOTON6)
+
+**____________________________________________________________________________________________________________________________________________________**
 
 Pàgina de la història (historia.html)
 
 ![Imatge d'exemple](CRISTIANORONALDO.webp)
 
+**____________________________________________________________________________________________________________________________________________________**
+
 Formulari de contacte (contacto.html)
 
+
 ![Imatge d'exemple](CRISTIANORONALDO.webp)
+
+**____________________________________________________________________________________________________________________________________________________**
