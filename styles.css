@@ -33,7 +33,7 @@ body {
   }
   
   nav a {
-    color: rgb(0, 0, 0);
+    color: #ffffff;
     text-decoration: none;
     padding: 10px 15px;
     display: block;
@@ -47,19 +47,18 @@ body {
   section.noticias {
     background: url('images/trofeos.jpg') no-repeat center center;
     background-size: cover;
-    color: white;
+    color: hsl(226, 100%, 50%);
     padding: 4em 1em;
     text-shadow: 1px 1px 2px black;
   }
   
-  article {
-    padding: 2em;
+  article {    padding: 2em;
     animation: aparicion 1.2s ease-in-out;
   }
   
   footer {
     background-color: #111;
-    color: white;
+    color: rgb(255, 255, 255);
     text-align: center;
     padding: 1em;
     font-size: 0.9em;
