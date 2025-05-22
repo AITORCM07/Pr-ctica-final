@@ -3,7 +3,7 @@
 **1. Descripció del projecte i tema escollit:**
 Aquest projecte consisteix en la creació d’un lloc web personal senzill, compost per diverses pàgines HTML: index.html, historia.html i contacto.html. El tema escollit gira al voltant d’una presentació personal o fictícia, incloent una petita història i un formulari de contacte.
 
-____________________________________________________________________________________________________________________________________________________
+**____________________________________________________________________________________________________________________________________________________**
 
 **2. Explicació del layout i estructura:**
 El lloc web està format per tres pàgines principals:
@@ -12,24 +12,24 @@ El lloc web està format per tres pàgines principals:
 
 ![Index.html](CRISTIANORONALDO.webp)
 
-____________________________________________________________________________________________________________________________________________________
+**____________________________________________________________________________________________________________________________________________________**
 
 **historia.html:** *secció on es desenvolupa una petita història o biografia.*
 
 ![Historia.html](FOTON2.png)
 ![Historia.html](FOTON3.png)
 
-____________________________________________________________________________________________________________________________________________________
+**____________________________________________________________________________________________________________________________________________________**
 
 **contacto.html:** *pàgina amb un formulari de contacte.*
 
 ![Contacto.html](FOTON1.png)
 
-____________________________________________________________________________________________________________________________________________________
+**____________________________________________________________________________________________________________________________________________________**
 
 3. Totes les pàgines comparteixen una mateixa estructura bàsica amb etiquetes de HTML. Té un menú de navegació que facilita el pas entre pàgines. El layout es basa en una distribució en columna per a dispositius mòbils i una disposició en dues columnes per a pantalles més grans.
 
-____________________________________________________________________________________________________________________________________________________
+**____________________________________________________________________________________________________________________________________________________**
 
 **4. Detalls sobre l’estil CSS i els efectes visuals:**
 
@@ -45,7 +45,7 @@ Efectes visuals com canvis de color al passar el cursor sobre els enllaços.
 
 Organització del contingut mitjançant Flexbox per a una distribució flexible i eficient.
 
-____________________________________________________________________________________________________________________________________________________
+**____________________________________________________________________________________________________________________________________________________**
 
 **5. Decisions de disseny i raonaments:**
 
@@ -59,7 +59,7 @@ S’ha tingut en compte la compatibilitat amb diferents dispositius mitjançant 
 
 El formulari de contacte utilitza validació bàsica amb HTML5.
 
-____________________________________________________________________________________________________________________________________________________
+**____________________________________________________________________________________________________________________________________________________**
 
 **6. Captures de pantalla del resultat final:**
 
