@@ -61,7 +61,7 @@ El formulari de contacte utilitza validació bàsica amb HTML.
 
 **6. Captures de pantalla del resultat final:**
 
-Pàgina d’inici (index.html)
+**Pàgina d’inici (*index.html*)**
 
 ![Imatge d'exemple](FOTON5.png)
 
@@ -69,7 +69,7 @@ Pàgina d’inici (index.html)
 
 **____________________________________________________________________________________________________________________________________________________**
 
-Pàgina de la història (historia.html)
+**Pàgina de la història (*historia.html*)**
 
 ![Imatge d'exemple](FOTON7.png)
 ![Imatge d'exemple](FOTON8.png)
@@ -78,7 +78,7 @@ Pàgina de la història (historia.html)
 
 **____________________________________________________________________________________________________________________________________________________**
 
-Formulari de contacte (contacto.html)
+**Formulari de contacte (*contacto.html*)**
 
 
 ![Imatge d'exemple](FOTON11.png)
