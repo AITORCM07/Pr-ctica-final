@@ -8,15 +8,15 @@ El lloc web està format per tres pàgines principals:
 
 *index.html: pàgina principal amb informació introductòria.*
 
-![Imatge d'exemple](CRISTIANORONALDO.webp)
+![Index.html](CRISTIANORONALDO.webp)
 
 *historia.html: secció on es desenvolupa una petita història o biografia.*
 
-![Imatge d'exemple](CRISTIANORONALDO.webp)
+![Historia.html](FOTON01.png)
 
 *contacto.html: pàgina amb un formulari de contacte.*
 
-![Imatge d'exemple](CRISTIANORONALDO.webp)
+![Contacto.html](FOTON01.png)
 
 Totes les pàgines comparteixen una mateixa estructura bàsica amb etiquetes de HTML. Té un menú de navegació que facilita el pas entre pàgines. El layout es basa en una distribució en columna per a dispositius mòbils i una disposició en dues columnes per a pantalles més grans.
 
