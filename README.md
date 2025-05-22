@@ -12,7 +12,7 @@ El lloc web està format per tres pàgines principals:
 
 *historia.html: secció on es desenvolupa una petita història o biografia.*
 
-![Historia.html](FOTON01.png)
+![Historia.html](.png)
 
 *contacto.html: pàgina amb un formulari de contacte.*
 
