@@ -1,7 +1,7 @@
 # Practica-final
 
 **1. Descripció del projecte i tema escollit:**
-Aquest projecte consisteix en la creació d’un lloc web personal senzill, compost per diverses pàgines HTML: index.html, historia.html i contacto.html. El tema escollit gira al voltant d’una presentació personal o fictícia, incloent una petita història i un formulari de contacte.
+Aquest projecte consisteix en la creació de una pagina web del REAL MADRID, compost per diverses pàgines HTML: index.html, historia.html i contacto.html. El tema escollit té una presentació del club, incloent una petita història i un formulari de contacte.
 
 **____________________________________________________________________________________________________________________________________________________**
 
@@ -10,7 +10,7 @@ El lloc web està format per tres pàgines principals:
 
 **index.html:** *pàgina principal amb informació introductòria.*
 
-![Index.html](CRISTIANORONALDO.webp)
+![Index.html](FOTON4.png)
 
 **____________________________________________________________________________________________________________________________________________________**
 
@@ -35,15 +35,13 @@ El lloc web està format per tres pàgines principals:
 
 L’estil del lloc es defineix mitjançant el fitxer styles.css. Inclou:
 
-Colors suaus i agradables per afavorir la llegibilitat (predomini de tons blaus i grisos).
+Colors el del club Real Madrid i així apareix original.
 
 Tipografia sans-serif moderna i neta.
 
 Disseny responsive, adaptat tant a mòbils com a ordinadors.
 
 Efectes visuals com canvis de color al passar el cursor sobre els enllaços.
-
-Organització del contingut mitjançant Flexbox per a una distribució flexible i eficient.
 
 **____________________________________________________________________________________________________________________________________________________**
 
@@ -57,7 +55,7 @@ L’estil CSS està separat del contingut HTML per seguir les bones pràctiques.
 
 S’ha tingut en compte la compatibilitat amb diferents dispositius mitjançant disseny responsive.
 
-El formulari de contacte utilitza validació bàsica amb HTML5.
+El formulari de contacte utilitza validació bàsica amb HTML.
 
 **____________________________________________________________________________________________________________________________________________________**
 
