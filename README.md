@@ -28,7 +28,9 @@ El lloc web està format per tres pàgines principals:
 
 **____________________________________________________________________________________________________________________________________________________**
 
-3. Totes les pàgines comparteixen una mateixa estructura bàsica amb etiquetes de HTML. Té un menú de navegació que facilita el pas entre pàgines. El layout es basa en una distribució en columna per a dispositius mòbils i una disposició en dues columnes per a pantalles més grans.
+**3. Totes les pàgines comparteixen una mateixa estructura bàsica amb etiquetes de HTML. Té un menú de navegació que facilita el pas entre pàgines. El layout es basa en una distribució en columna per a dispositius mòbils i una disposició en dues columnes per a pantalles més grans.**
+
+![Contacto.html](FOTON16.png)
 
 **____________________________________________________________________________________________________________________________________________________**
 
