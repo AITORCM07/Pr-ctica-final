@@ -77,9 +77,7 @@ article {
   animation: aparicion 1.2s ease-in-out;
   max-width: 3000px;
   margin: auto;
-
-  font-size: 2em;
-  margin-bottom: 1em;
+  
 }
 
 /* Formularios */
