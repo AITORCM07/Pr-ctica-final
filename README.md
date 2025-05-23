@@ -37,11 +37,11 @@ L’estil del lloc es defineix mitjançant el fitxer styles.css. Inclou:
 
 Colors del club Real Madrid i així apareix original.
 
-![Imatge d'exemple](FOTON12.png)
+![Imatge d'exemple](FOTON13.png)
 
 Tipografia sans-serif moderna i neta.
 
-![Imatge d'exemple](FOTON13.png)
+![Imatge d'exemple](FOTON12.png)
 
 Disseny responsive, adaptat tant a mòbils com a ordinadors.
 
